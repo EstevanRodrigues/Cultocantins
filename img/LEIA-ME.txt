@@ -1,0 +1,4 @@
+Coloque aqui as fotos do site com estes nomes:
+hero.jpg, brasil.jpg, capital.jpg, indigenas.jpg, artesanato.jpg,
+duna.jpg, folia.jpg, comida.jpg, contato.png (fundo transparente),
+fernanda.jpg, amanda.jpg, marcos.jpg
